@@ -1,20 +1,10 @@
 body {
-    background-color:#E0E0E2;
-  }
-
-
-
-
-
-h2{
-    color: #721817;
-}
-.center-text{
-text-align: center;
+  background-color: #e0e0e2;
 }
 
-
-
-
-
-
+< h2 {
+  color: #721817;
+}
+.center-text {
+  text-align: center;
+}
