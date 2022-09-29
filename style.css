@@ -2,9 +2,16 @@ body {
   background-color: #e0e0e2;
 }
 
-< h2 {
+ h2 {
   color: #721817;
 }
 .center-text {
   text-align: center;
+}
+
+#copyright {
+
+    padding-top: 12px;
+    font-size: 0.75em;
+    
 }
